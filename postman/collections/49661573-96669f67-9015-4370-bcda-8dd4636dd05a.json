@@ -175,7 +175,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "{{vault:auth_for_1hr}}",
+									"value": "{{auth_1hr}}",
 									"type": "string"
 								}
 							]
@@ -249,7 +249,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "{{vault:auth_for_1hr}}",
+									"value": "{{auth_1hr}}",
 									"type": "string"
 								}
 							]
