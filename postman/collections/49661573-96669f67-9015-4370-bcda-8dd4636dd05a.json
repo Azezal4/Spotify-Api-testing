@@ -565,7 +565,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "e6f75cdb-d405-49d5-839e-fcc5d4089b12",
+				"id": "04673449-f81d-497e-a81b-be26c77846df",
 				"type": "text/javascript",
 				"packages": {},
 				"requests": {},
@@ -577,7 +577,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "d2b47d0d-372b-4025-afc9-396f7fbb37bd",
+				"id": "3fb25edf-b861-447e-973c-01c2bbe197ee",
 				"type": "text/javascript",
 				"packages": {},
 				"requests": {},
@@ -591,6 +591,11 @@
 		{
 			"key": "basic_auth_spotify_token_1hr",
 			"value": ""
+		},
+		{
+			"key": "auth_for_1hr",
+			"value": "",
+			"type": "default"
 		}
 	]
 }
